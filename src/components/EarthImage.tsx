@@ -1,4 +1,3 @@
-import React from "react";
 import image from "..//assets/images/earth-image.png";
 const EarthImage = () => {
   return (

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Icon2 = () => {
   return (
     <>
